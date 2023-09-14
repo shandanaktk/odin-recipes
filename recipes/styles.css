@@ -1,0 +1,31 @@
+
+*
+{
+    color: #E0E0E0;
+  background-color:  #420404;
+}
+
+p, ul, ol
+{
+    font-family: Times;
+    font-size: large;
+}
+
+p
+{
+    text-indent: 10%;
+}
+
+img {
+    border: 5px solid #e7d8d8;
+    background-color: aliceblue;
+    height: 500px;
+    width: auto;
+  }
+
+h1, h2
+{
+    font-family: 'Brush Script MT', cursive;
+    text-decoration-line: underline;
+    font-size: xx-large;
+}
